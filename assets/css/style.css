@@ -366,7 +366,7 @@ li{
     margin-left: 20px;
     }
 
-
+    @media (max-width:900px){
     .box_3{
         
         background-color: hsl(39, 100%, 71%);
@@ -382,8 +382,8 @@ li{
     margin-bottom: 12px;
     margin-left: 25px;
     margin-bottom: 150px;
-    }
-
+    }}
+    @media (max-width:900px){
 
     .box_4{
        
@@ -410,7 +410,7 @@ li{
        text-align:center;
        font-size: 25px;
        
-    }
+    }}
     
 
 
